@@ -6,3 +6,19 @@
 .number2{
 	padding-top: 100px;
 }
+
+/*Carousel Images CSS*/
+.carousel-inner{
+	width: 50%;
+
+}
+
+
+
+/*span .carousel-control-prev-icon, span .carousel-control-next-icon{
+	background-color: green;
+}
+
+.sr-only{
+	color: red;
+}*/
